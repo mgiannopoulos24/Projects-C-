@@ -23,3 +23,7 @@ The ```bookcase.cpp``` program implements a simplified simulation of a library i
 
 The library takes as parameters from the command line the maximum capacity of the shelves (`NMax`), the number of books (`L`), the number of random insertions (`K1`), and the number of random removals (`K2`).
 
+### How to run it
+
+Compile it using `g++ -o bookcase bookcase.cpp` <br>
+Example execution `bookcase.exe 5 10 7 3`
