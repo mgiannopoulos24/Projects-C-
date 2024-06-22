@@ -1,5 +1,6 @@
 # Projects-CPP
-C++ projects | Object Oriented Programming
+
+University and side projects in C++.
 
 
 
